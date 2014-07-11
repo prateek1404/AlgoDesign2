@@ -1,0 +1,9 @@
+Pseudo code of Prims MST
+U= {1,2,3.....nnodes}
+set A = [1]
+set B = [2,3,4,....nnodes]
+while A!= B
+  dest = vertex with minimum cost in adjacency lists of all elements of A
+ add dest to A
+ remove dest from B
+ add cost to cost of MST
