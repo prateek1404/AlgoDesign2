@@ -21,7 +21,6 @@ edgeArray= fetchEdgeArray()
 nodeHash={}
 for x in range(0,len(edgeArray)):
  inputN = edgeArray[x]
- print "INPUT is "+str(inputN)
  inputNumber = list(inputN)
  if inputN not in nodeHash.keys():
   nodeHash[inputN]=inputN
@@ -33,13 +32,11 @@ for x in range(0,len(edgeArray)):
    else:
     inputNumber2[x]="0"
    toInsert1 = "".join(inputNumber2)
-   print "with one change "+ toInsert1
    if toInsert1 not in nodeHash.keys(): 
     nodeHash[toInsert1]=inputN
    if x < len(inputN)-1:
     for y in range(x+1,ndigits): 
      inputNumber2= list(toInsert1)
-     print inputNumber2
      if(int(inputNumber2[y])==0):
       inputNumber2[y]="1"
      else:
@@ -47,5 +44,11 @@ for x in range(0,len(edgeArray)):
      toInsert2= "".join(inputNumber2)
      if toInsert2 not in nodeHash.keys():
       nodeHash[toInsert2]=inputN 
-print nodeHash 
-print len(nodeHash) 
+print len(nodeHash)
+uniqueHead=[]
+for keyf in nodeHash.keys():
+ if nodeHash[keyf] not in uniqueHead:
+  uniqueHead.append(nodeHash[keyf])
+print uniqueHead
+print "value of k is "+str(len(uniqueHead))
+ 
