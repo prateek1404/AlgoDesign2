@@ -1,0 +1,3 @@
+G1 negative cost cycle
+G2 negative cost cycle
+G3 -19
