@@ -1,0 +1,553 @@
+m=0
+[bitarray('11000'), bitarray('10100'), bitarray('10010'), bitarray('10001')]
+processing set bitarray('11000')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10000')
+11000
+1
+0
+{0: 0}
+processing set bitarray('10100')
+other sets
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('10000')
+10100
+2
+0
+{0: 0}
+processing set bitarray('10010')
+other sets
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('10000')
+10010
+3
+0
+{0: 0}
+processing set bitarray('10001')
+other sets
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('10000')
+10001
+4
+0
+{0: 0}
+m=1
+[bitarray('11100'), bitarray('11010'), bitarray('10110'), bitarray('11001'), bitarray('10101'), bitarray('10011')]
+processing set bitarray('11100')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10100')
+11100
+1
+0
+{0: 2147483647, 2: 4109.913459889123}
+value of j is 1 value of k is2
+ty bitarray('10100')
+11100
+1
+2
+{0: 2147483647, 2: 4109.913459889123}
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('11000')
+11100
+2
+0
+{0: 2147483647, 1: 74.53561415712697}
+value of j is 2 value of k is1
+ty bitarray('11000')
+11100
+2
+1
+{0: 2147483647, 1: 74.53561415712697}
+processing set bitarray('11010')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10010')
+11010
+1
+0
+{0: 2147483647, 3: 3047.9957068357057}
+value of j is 1 value of k is3
+ty bitarray('10010')
+11010
+1
+3
+{0: 2147483647, 3: 3047.9957068357057}
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('11000')
+11010
+3
+0
+{0: 2147483647, 1: 74.53561415712697}
+value of j is 3 value of k is1
+ty bitarray('11000')
+11010
+3
+1
+{0: 2147483647, 1: 74.53561415712697}
+processing set bitarray('10110')
+other sets
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('10010')
+10110
+2
+0
+{0: 2147483647, 3: 3047.9957068357057}
+value of j is 2 value of k is3
+ty bitarray('10010')
+10110
+2
+3
+{0: 2147483647, 3: 3047.9957068357057}
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('10100')
+10110
+3
+0
+{0: 2147483647, 2: 4109.913459889123}
+value of j is 3 value of k is2
+ty bitarray('10100')
+10110
+3
+2
+{0: 2147483647, 2: 4109.913459889123}
+processing set bitarray('11001')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10001')
+11001
+1
+0
+{0: 2147483647, 4: 2266.911731360042}
+value of j is 1 value of k is4
+ty bitarray('10001')
+11001
+1
+4
+{0: 2147483647, 4: 2266.911731360042}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('11000')
+11001
+4
+0
+{0: 2147483647, 1: 74.53561415712697}
+value of j is 4 value of k is1
+ty bitarray('11000')
+11001
+4
+1
+{0: 2147483647, 1: 74.53561415712697}
+processing set bitarray('10101')
+other sets
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('10001')
+10101
+2
+0
+{0: 2147483647, 4: 2266.911731360042}
+value of j is 2 value of k is4
+ty bitarray('10001')
+10101
+2
+4
+{0: 2147483647, 4: 2266.911731360042}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('10100')
+10101
+4
+0
+{0: 2147483647, 2: 4109.913459889123}
+value of j is 4 value of k is2
+ty bitarray('10100')
+10101
+4
+2
+{0: 2147483647, 2: 4109.913459889123}
+processing set bitarray('10011')
+other sets
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('10001')
+10011
+3
+0
+{0: 2147483647, 4: 2266.911731360042}
+value of j is 3 value of k is4
+ty bitarray('10001')
+10011
+3
+4
+{0: 2147483647, 4: 2266.911731360042}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('10010')
+10011
+4
+0
+{0: 2147483647, 3: 3047.9957068357057}
+value of j is 4 value of k is3
+ty bitarray('10010')
+10011
+4
+3
+{0: 2147483647, 3: 3047.9957068357057}
+m=2
+[bitarray('11110'), bitarray('11101'), bitarray('11011'), bitarray('10111')]
+processing set bitarray('11110')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10110')
+11110
+1
+0
+{0: 2147483647, 2: 4220.362700950131, 3: 5282.280454003548}
+value of j is 1 value of k is2
+ty bitarray('10110')
+11110
+1
+2
+{0: 2147483647, 2: 4220.362700950131, 3: 5282.280454003548}
+value of j is 1 value of k is3
+ty bitarray('10110')
+11110
+1
+3
+{0: 2147483647, 2: 4220.362700950131, 3: 5282.280454003548}
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('11010')
+11110
+2
+0
+{0: 2147483647, 1: 6047.486436757854, 3: 3074.0263440792746}
+value of j is 2 value of k is1
+ty bitarray('11010')
+11110
+2
+1
+{0: 2147483647, 1: 6047.486436757854, 3: 3074.0263440792746}
+value of j is 2 value of k is3
+ty bitarray('11010')
+11110
+2
+3
+{0: 2147483647, 1: 6047.486436757854, 3: 3074.0263440792746}
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('11100')
+11110
+3
+0
+{0: 2147483647, 1: 8179.618608914052, 2: 4144.240763182055}
+value of j is 3 value of k is1
+ty bitarray('11100')
+11110
+3
+1
+{0: 2147483647, 1: 8179.618608914052, 2: 4144.240763182055}
+value of j is 3 value of k is2
+ty bitarray('11100')
+11110
+3
+2
+{0: 2147483647, 1: 8179.618608914052, 2: 4144.240763182055}
+processing set bitarray('11101')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10101')
+11101
+1
+0
+{0: 2147483647, 2: 4239.853697054928, 4: 6082.855425584009}
+value of j is 1 value of k is2
+ty bitarray('10101')
+11101
+1
+2
+{0: 2147483647, 2: 4239.853697054928, 4: 6082.855425584009}
+value of j is 1 value of k is4
+ty bitarray('10101')
+11101
+1
+4
+{0: 2147483647, 2: 4239.853697054928, 4: 6082.855425584009}
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('11001')
+11101
+2
+0
+{0: 2147483647, 1: 4480.5060934779085, 4: 2288.129976274994}
+value of j is 2 value of k is1
+ty bitarray('11001')
+11101
+2
+1
+{0: 2147483647, 1: 4480.5060934779085, 4: 2288.129976274994}
+value of j is 2 value of k is4
+ty bitarray('11001')
+11101
+2
+4
+{0: 2147483647, 1: 4480.5060934779085, 4: 2288.129976274994}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('11100')
+11101
+4
+0
+{0: 2147483647, 1: 8179.618608914052, 2: 4144.240763182055}
+value of j is 4 value of k is1
+ty bitarray('11100')
+11101
+4
+1
+{0: 2147483647, 1: 8179.618608914052, 2: 4144.240763182055}
+value of j is 4 value of k is2
+ty bitarray('11100')
+11101
+4
+2
+{0: 2147483647, 1: 8179.618608914052, 2: 4144.240763182055}
+processing set bitarray('11011')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10011')
+11011
+1
+0
+{0: 2147483647, 3: 3083.5784313600416, 4: 3864.6624068357055}
+value of j is 1 value of k is3
+ty bitarray('10011')
+11011
+1
+3
+{0: 2147483647, 3: 3083.5784313600416, 4: 3864.6624068357055}
+value of j is 1 value of k is4
+ty bitarray('10011')
+11011
+1
+4
+{0: 2147483647, 3: 3083.5784313600416, 4: 3864.6624068357055}
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('11001')
+11011
+3
+0
+{0: 2147483647, 1: 4480.5060934779085, 4: 2288.129976274994}
+value of j is 3 value of k is1
+ty bitarray('11001')
+11011
+3
+1
+{0: 2147483647, 1: 4480.5060934779085, 4: 2288.129976274994}
+value of j is 3 value of k is4
+ty bitarray('11001')
+11011
+3
+4
+{0: 2147483647, 1: 4480.5060934779085, 4: 2288.129976274994}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('11010')
+11011
+4
+0
+{0: 2147483647, 1: 6047.486436757854, 3: 3074.0263440792746}
+value of j is 4 value of k is1
+ty bitarray('11010')
+11011
+4
+1
+{0: 2147483647, 1: 6047.486436757854, 3: 3074.0263440792746}
+value of j is 4 value of k is3
+ty bitarray('11010')
+11011
+4
+3
+{0: 2147483647, 1: 6047.486436757854, 3: 3074.0263440792746}
+processing set bitarray('10111')
+other sets
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('10011')
+10111
+2
+0
+{0: 2147483647, 3: 3083.5784313600416, 4: 3864.6624068357055}
+value of j is 2 value of k is3
+ty bitarray('10011')
+10111
+2
+3
+{0: 2147483647, 3: 3083.5784313600416, 4: 3864.6624068357055}
+value of j is 2 value of k is4
+ty bitarray('10011')
+10111
+2
+4
+{0: 2147483647, 3: 3083.5784313600416, 4: 3864.6624068357055}
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('10101')
+10111
+3
+0
+{0: 2147483647, 2: 4239.853697054928, 4: 6082.855425584009}
+value of j is 3 value of k is2
+ty bitarray('10101')
+10111
+3
+2
+{0: 2147483647, 2: 4239.853697054928, 4: 6082.855425584009}
+value of j is 3 value of k is4
+ty bitarray('10101')
+10111
+3
+4
+{0: 2147483647, 2: 4239.853697054928, 4: 6082.855425584009}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('10110')
+10111
+4
+0
+{0: 2147483647, 2: 4220.362700950131, 3: 5282.280454003548}
+value of j is 4 value of k is2
+ty bitarray('10110')
+10111
+4
+2
+{0: 2147483647, 2: 4220.362700950131, 3: 5282.280454003548}
+value of j is 4 value of k is3
+ty bitarray('10110')
+10111
+4
+3
+{0: 2147483647, 2: 4220.362700950131, 3: 5282.280454003548}
+m=3
+[bitarray('11111')]
+processing set bitarray('11111')
+other sets
+element at index 1 exists in sett
+value of j is 1 value of k is0
+ty bitarray('10111')
+11111
+1
+0
+{0: 2147483647, 2: 4255.945425474466, 3: 5412.220691169352, 4: 6098.947154003547}
+value of j is 1 value of k is2
+ty bitarray('10111')
+11111
+1
+2
+{0: 2147483647, 2: 4255.945425474466, 3: 5412.220691169352, 4: 6098.947154003547}
+value of j is 1 value of k is3
+ty bitarray('10111')
+11111
+1
+3
+{0: 2147483647, 2: 4255.945425474466, 3: 5412.220691169352, 4: 6098.947154003547}
+value of j is 1 value of k is4
+ty bitarray('10111')
+11111
+1
+4
+{0: 2147483647, 2: 4255.945425474466, 3: 5412.220691169352, 4: 6098.947154003547}
+element at index 2 exists in sett
+value of j is 2 value of k is0
+ty bitarray('11011')
+11111
+2
+0
+{0: 2147483647, 1: 6078.256768953573, 3: 3104.796676274994, 4: 3890.6930440792744}
+value of j is 2 value of k is1
+ty bitarray('11011')
+11111
+2
+1
+{0: 2147483647, 1: 6078.256768953573, 3: 3104.796676274994, 4: 3890.6930440792744}
+value of j is 2 value of k is3
+ty bitarray('11011')
+11111
+2
+3
+{0: 2147483647, 1: 6078.256768953573, 3: 3104.796676274994, 4: 3890.6930440792744}
+value of j is 2 value of k is4
+ty bitarray('11011')
+11111
+2
+4
+{0: 2147483647, 1: 6078.256768953573, 3: 3104.796676274994, 4: 3890.6930440792744}
+element at index 3 exists in sett
+value of j is 3 value of k is0
+ty bitarray('11101')
+11111
+3
+0
+{0: 2147483647, 1: 8296.449787701877, 2: 4261.07194196988, 4: 6117.182728876941}
+value of j is 3 value of k is1
+ty bitarray('11101')
+11111
+3
+1
+{0: 2147483647, 1: 8296.449787701877, 2: 4261.07194196988, 4: 6117.182728876941}
+value of j is 3 value of k is2
+ty bitarray('11101')
+11111
+3
+2
+{0: 2147483647, 1: 8296.449787701877, 2: 4261.07194196988, 4: 6117.182728876941}
+value of j is 3 value of k is4
+ty bitarray('11101')
+11111
+3
+4
+{0: 2147483647, 1: 8296.449787701877, 2: 4261.07194196988, 4: 6117.182728876941}
+element at index 4 exists in sett
+value of j is 4 value of k is0
+ty bitarray('11110')
+11111
+4
+0
+{0: 2147483647, 1: 8281.771183925695, 2: 4246.393338193699, 3: 5316.60775729648}
+value of j is 4 value of k is1
+ty bitarray('11110')
+11111
+4
+1
+{0: 2147483647, 1: 8281.771183925695, 2: 4246.393338193699, 3: 5316.60775729648}
+value of j is 4 value of k is2
+ty bitarray('11110')
+11111
+4
+2
+{0: 2147483647, 1: 8281.771183925695, 2: 4246.393338193699, 3: 5316.60775729648}
+value of j is 4 value of k is3
+ty bitarray('11110')
+11111
+4
+3
+{0: 2147483647, 1: 8281.771183925695, 2: 4246.393338193699, 3: 5316.60775729648}
+m=4
+[]
+{0: 2147483647, 1: 8312.541516121415, 2: 4277.163670389418, 3: 5433.438936084304, 4: 6133.274457296479}

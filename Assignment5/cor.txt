@@ -1,0 +1,10 @@
+processing for 0
+[bitarray('11000'), bitarray('10100'), bitarray('10010'), bitarray('10001')]
+processing for 1
+[bitarray('11100'), bitarray('11010'), bitarray('10110'), bitarray('11001'), bitarray('10101'), bitarray('10011')]
+processing for 2
+[bitarray('11110'), bitarray('11101'), bitarray('11011'), bitarray('10111')]
+processing for 3
+[bitarray('11111')]
+processing for 4
+[]

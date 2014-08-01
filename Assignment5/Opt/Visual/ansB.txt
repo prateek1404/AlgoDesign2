@@ -1,0 +1,16 @@
+processing for m= 0
+processing for m= 1
+processing for m= 2
+processing for m= 3
+processing for m= 4
+processing for m= 5
+processing for m= 6
+processing for m= 7
+processing for m= 8
+processing for m= 9
+processing for m= 10
+processing for m= 11
+processing for m= 12
+13175.0126028
+{'y': '14500.0000', 'x': '26133.3333'}
+10844.7170174

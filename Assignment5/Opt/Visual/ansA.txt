@@ -1,0 +1,15 @@
+processing for m= 0
+processing for m= 1
+processing for m= 2
+processing for m= 3
+processing for m= 4
+processing for m= 5
+processing for m= 6
+processing for m= 7
+processing for m= 8
+processing for m= 9
+processing for m= 10
+processing for m= 11
+13312.6680301
+{'y': '15933.3333', 'x': '23700.0000'}
+11900.7150922
